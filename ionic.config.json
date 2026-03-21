@@ -1,0 +1,7 @@
+{
+  "name": "eventsAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
